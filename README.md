@@ -28,7 +28,7 @@ CCRM provides a menu-driven command-line interface (CLI) to handle the managemen
 1.  **Prerequisites:** Ensure you have the **Java Development Kit (JDK) for Java SE** installed on your system.
 2.  **Clone the repository:**
     ```bash
-    git clone [your-repository-url]
+    git clone https://github.com/vkDemon1/ccrm
     cd CampusCourseRecordsManager
     ```
 3.  **Compile and Run:**
